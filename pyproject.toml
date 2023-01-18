@@ -4,4 +4,6 @@ requires = [
     "setuptools",
     "wheel",
     "cython",
+    "numpy",
+    "scipy",
 ]
